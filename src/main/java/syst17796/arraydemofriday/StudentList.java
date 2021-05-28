@@ -15,5 +15,6 @@ public class StudentList
         studentList[2] = new Student("Lucas", 39439);
         studentList[3] = new Student("Kemon", 94820);
         studentList[4] = new Student("Shushil", 95497);
+        studentList[5] = new Student("Flombobdo", 90210);
     }
 }
