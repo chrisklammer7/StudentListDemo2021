@@ -9,5 +9,5 @@ package syst17796.arraydemofriday;
  */
 public class PartTimeStudent
 {
-
+    // test
 }
